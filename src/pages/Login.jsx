@@ -119,11 +119,11 @@ function LoginForm() {
                             <span className="font-medium text-white bg-transparent">
                                 User ID:
                             </span>{" "}
-                            C03 &nbsp;|&nbsp;
+                            C01 &nbsp;|&nbsp;
                             <span className="font-medium text-white bg-transparent">
                                 Password:
                             </span>{" "}
-                            c3
+                            c1
                         </p>
                     </div>
 
@@ -135,11 +135,11 @@ function LoginForm() {
                             <span className="font-medium text-white bg-transparent">
                                 User ID:
                             </span>{" "}
-                            H03 &nbsp;|&nbsp;
+                            H01 &nbsp;|&nbsp;
                             <span className="font-medium text-white bg-transparent">
                                 Password:
                             </span>{" "}
-                            h3
+                            h1
                         </p>
                     </div>
                 </div>
